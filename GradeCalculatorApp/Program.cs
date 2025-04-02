@@ -6,7 +6,7 @@ namespace GradeCalculatorApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the DCIT 318 Grade Calculator!");
+            Console.WriteLine("Welcome to the Course Grade Calculator!");
             Console.WriteLine("You can enter your grade (0-100) to see the letter grade.");
             Console.WriteLine("Type 'exit' to quit the application.");
             Console.WriteLine();
